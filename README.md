@@ -2,4 +2,4 @@
 
 ## pip install windows-curses
 
-## python screens.py
+## python ./screens.py
